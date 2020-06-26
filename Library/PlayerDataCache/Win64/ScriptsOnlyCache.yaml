@@ -69,6 +69,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.Dropdown
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.GridLayoutGroup
     - UnityEngine.UI.Image
@@ -78,6 +79,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
   sceneClasses:
     Assets/Scenes/GameMenu.unity:
     - Class: 1
@@ -251,7 +253,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10946}
     - Class: 114
+      Script: {instanceID: 10954}
+    - Class: 114
       Script: {instanceID: 10960}
+    - Class: 114
+      Script: {instanceID: 10966}
     - Class: 114
       Script: {instanceID: 10980}
     - Class: 115
@@ -416,7 +422,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10960}
     - Class: 114
-      Script: {instanceID: 13536}
+      Script: {instanceID: 20252}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -948,7 +954,7 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
-      Hash: 36d966ce1ef9be7fa112ffd95f85177a
+      Hash: d6dc403b0f6f225259cda1e817b2496d
     assemblyName: Assembly-CSharp.dll
     namespaceName: Assets.Scripts.NUI.Menu
     className: SettingMenu
