@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171db21026f4a4c4dab8f2afc9b01732, type: 3}
+  m_Name: 017_GrassYellow
+  m_EditorClassIdentifier: 
+  m_ID: 17
+  m_Icon: {fileID: 5127950149601345054, guid: eec24019192c8ee48b5bc86962585e78, type: 3}
+  m_IsOpaque: 1
+  m_IsObstacle: 1
+  m_UpTile:
+    OriginMesh: {fileID: 11400000, guid: 5d0ec84fb4b66d24e826034d706dccbe, type: 2}
+    m_TexID: 240
+  m_DownTile:
+    OriginMesh: {fileID: 11400000, guid: 0fd8c6158f8778248b388575a4d4fd8a, type: 2}
+    m_TexID: 3
+  m_LeftTile:
+    OriginMesh: {fileID: 11400000, guid: a147570bad9cc004babe0fead41870f1, type: 2}
+    m_TexID: 241
+  m_RightTile:
+    OriginMesh: {fileID: 11400000, guid: 3183188f2188cac408f7e10902391fd4, type: 2}
+    m_TexID: 241
+  m_FrontTile:
+    OriginMesh: {fileID: 11400000, guid: 21460b6b53e84e74b9fe8329980a0012, type: 2}
+    m_TexID: 241
+  m_BackTile:
+    OriginMesh: {fileID: 11400000, guid: 881e26637b4da2d4fa024bb88c9106ac, type: 2}
+    m_TexID: 241

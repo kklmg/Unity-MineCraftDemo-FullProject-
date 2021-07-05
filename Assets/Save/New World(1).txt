@@ -1,0 +1,1 @@
+{"WorldSeed":"ktyde920fo","WorldName":"New World","LastPlayed":{"Year":2021,"Month":7,"Day":4,"Hour":15,"Minute":0,"Second":41},"PlayerPos":{"x":-134.77035522460938,"y":35.0,"z":70.88810729980469},"playerRot":{"x":0.0,"y":-0.6847289800643921,"z":0.0,"w":0.7287977933883667},"HasPlayerSpawned":true,"WorldModfication":{"m_Data":[]}}

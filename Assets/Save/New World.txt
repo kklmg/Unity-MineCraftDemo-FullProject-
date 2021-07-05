@@ -1,0 +1,1 @@
+{"WorldSeed":"u7nsz3mnyt","WorldName":"New World","LastPlayed":{"Year":2021,"Month":7,"Day":4,"Hour":14,"Minute":33,"Second":45},"PlayerPos":{"x":217.77090454101563,"y":42.0,"z":54.903282165527347},"playerRot":{"x":0.0,"y":0.5757758021354675,"z":0.0,"w":0.8176077008247376},"HasPlayerSpawned":true,"WorldModfication":{"m_Data":[]}}

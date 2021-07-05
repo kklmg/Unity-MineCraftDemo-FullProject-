@@ -1,0 +1,1 @@
+{"PlayerView":{"m_Value":1},"PlayerSpeed":{"m_Value":5},"JumpForce":{"m_Value":0.5},"RotateSensitivity":{"m_Value":2.4800000190734865},"PickingDistance":{"m_Value":21}}

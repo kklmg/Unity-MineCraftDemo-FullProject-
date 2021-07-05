@@ -1,0 +1,1 @@
+{"WorldSeed":"psbff62a3x","WorldName":"New World","LastPlayed":{"Year":2021,"Month":7,"Day":4,"Hour":15,"Minute":3,"Second":47},"PlayerPos":{"x":4.0,"y":60.0,"z":0.0},"playerRot":{"x":0.0,"y":-0.018395738676190378,"z":0.0,"w":0.9998308420181274},"HasPlayerSpawned":true,"WorldModfication":{"m_Data":[]}}

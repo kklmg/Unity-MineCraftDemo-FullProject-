@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 612297ed598e7ac4188e370c05eb4c96, type: 3}
+  m_Name: Plane Pink
+  m_EditorClassIdentifier: 
+  m_LayerData:
+    m_Layers:
+    - Top: 0
+      Bottom: 1
+      blockType: {fileID: 11400000, guid: 556a9e0c4d8cc9044b39419897a2dff1, type: 2}
+    - Top: 1
+      Bottom: 5
+      blockType: {fileID: 11400000, guid: c8103f1fb2358bc4386ef28271c3b446, type: 2}
+    DefaultBlock: {fileID: 11400000, guid: 335f0f1c14e235d4c813ad2f20ea3a21, type: 2}
+    baseBlock: {fileID: 11400000, guid: 22377c9e0f528b24c91c472a754f7ae0, type: 2}
+    baseBlockAltitude: 5
+  m_Offset: 0
+  m_Frequency: 0.021
+  m_LowestAltitude: 20
+  m_HighestAltitude: 40
